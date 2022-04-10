@@ -20,9 +20,6 @@ Ditributed systems and large scale infrastructure.
 <br />
 <br />
 
-
-[![akumbhani66's's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelCade&show_icons=true&theme=radical)](https://github.com/akumbhani66/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akumbhani66&theme=dark)](https://git.io/streak-stats)
+[![Ashvin's github stats](https://github-readme-stats.vercel.app/api?username=akumbhani66&show_icons=true)](https://github.com/akumbhani66)
 
 ![](https://komarev.com/ghpvc/?username=akumbhani66&color=lightgrey)
